@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stainsrubus
 - 👀 I'm looking for job as a Full stack developer 
-- 🎓 I’ve completed my BE course in 2023
 - 📚 I'm pursing MERN stack development @GUVI-MadrasIIT research park.
+- 🎓 I’ve completed my BE course in 2023.
 - 📚 Also I've completed certification courses in C, C++, Python, Java, HTML,CSS, Javascript.
 - 📫 Reach me -> stainsrubus@gmail.com (9344676467)
 
